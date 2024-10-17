@@ -1,5 +1,7 @@
 package org.paymentgateway;
 
+
+
 public class PaymentDetails {
     String cardNumber;
     String cvv;
@@ -7,6 +9,7 @@ public class PaymentDetails {
     String upiId;
     String upiPin;
     String bankCredentials;
+
 
     public PaymentDetails() {
         this.cardNumber = cardNumber;
