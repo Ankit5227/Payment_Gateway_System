@@ -1,0 +1,1 @@
+[2024-10-17T11:16:04.183] Loan: LAI-12345, Payment Method: Credit Card, Amount: ₹1020.0, Status: Successful
